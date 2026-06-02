@@ -2,37 +2,37 @@ main:
 
   - title: "Diverse Motion Customization via Control-based Dynamic Optimization"
     authors: "<strong>Youngyoon Choi*</strong>, Kihyun Kim*, Jeongwoo Shin, Joonseok Lee"
-    conference_short: "NeurIPS"
-    conference: "Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026. (under review)"
-    image: ./assets/img/pub_motion.png  # 논문 티저 이미지 경로 (없으면 이 줄 삭제)
+    conference_short: "Under Review"
+    conference: "Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026 (under review)"
+    image: ./assets/img/pub_motion.png  
     # pdf: ./assets/files/motion_customization.pdf
     # code: https://github.com/youngyoon911/motion-customization
     # page: https://yourprojectpage.github.io
-    notes: "Under Review"
+    # notes: "Under Review"
 
   - title: "Trajectory-guided Referred Motion Segmentation"
     authors: "Yunjeong Choi, Hyunjin Lee, <strong>Youngyoon Choi</strong>, Eunyi Lyou, Yoori Oh, Joonseok Lee"
-    conference_short: "ECCV"
-    conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2026. (under review)"
+    conference_short: "Under Review"
+    conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2026 (under review)"
     image: ./assets/img/pub_trajectory.png
     # pdf: 
     # code: 
     # page: 
-    notes: "Under Review"
+    # notes: "Under Review"
 
   - title: "Channel-wise Latent Space Decorrelation for 3D Brain MRI Generation"
     authors: "Wonyoung Jang*, Junho Lee*, <strong>Youngyoon Choi</strong>, Seunggeun Lee, Joonseok Lee"
-    conference_short: "MIUA"
-    conference: "Medical Image Understanding and Analysis <strong>(MIUA)</strong>, 2026. (under review)"
+    conference_short: "Under Review"
+    conference: "Medical Image Understanding and Analysis <strong>(MIUA)</strong>, 2026 (under review)"
     image: ./assets/img/pub_mri.png
     # pdf: 
     # code: 
-    notes: "Under Review"
+    # notes: "Under Review"
 
   - title: "GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting"
     authors: "Inseo Lee, <strong>Youngyoon Choi</strong>, Joonseok Lee"
-    conference_short: "CVPR Workshop"
-    conference: "CVPR Workshop on Perception Beyond the Visible Spectrum, 2025."
+    conference_short: "CVPR Workshop 2025"
+    conference: "CVPR Workshop on Perception Beyond the Visible Spectrum <strong>(CVPRW)</strong>, 2025"
     image: ./assets/img/pub_gaussianvideo.png
     pdf: https://openaccess.thecvf.com/content/CVPR2025W/PBVS/papers/Lee_GaussianVideo_Efficient_Video_Representation_and_Compression_by_Gaussian_Splatting_CVPRW_2025_paper.pdf
     # code: 
