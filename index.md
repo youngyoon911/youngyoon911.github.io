@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am an M.S. student in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), advised by [Prof. Joonseok Lee](http://www.joonseok.net/home.html) at the [Visual Information Processing (VIP) Lab](http://viplab.snu.ac.kr/).
+I am an M.S. student in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at Seoul National University, advised by [Prof. Joonseok Lee](http://www.joonseok.net/home.html) at the [Visual Information Processing (VIP) Lab](http://viplab.snu.ac.kr/).
 
 My research focuses on **generative modeling**, particularly in video, grounded in theory-driven approaches. I have experience in 3D and reinforcement learning, with broad interest in their integration with generative models.
 
-<p style="color: red;"><strong>I am actively looking for Ph.D. positions, starting in Fall 2027.</strong></p>
+<span style="color: red;"><strong>I am actively looking for Ph.D. positions, starting in Fall 2027.</strong></span>
 
 ## News
 
@@ -16,8 +16,10 @@ My research focuses on **generative modeling**, particularly in video, grounded 
 - **[2024]** Started M.S. at SNU GSDS, VIP Lab.
 
 ## Publications
+{% include_relative _includes/publications.md %}
 
-- **Diverse Motion Customization via Control-based Dynamic Optimization**
+
+<!-- - **Diverse Motion Customization via Control-based Dynamic Optimization**
   <br>
   **Youngyoon Choi\***, Kihyun Kim\*, Jeongwoo Shin, Joonseok Lee
   <br>
@@ -45,7 +47,7 @@ My research focuses on **generative modeling**, particularly in video, grounded 
   <br>
   Inseo Lee, **Youngyoon Choi**, Joonseok Lee
   <br>
-  *CVPR Workshop on Perception Beyond the Visible Spectrum, 2025*
+  *CVPR Workshop on Perception Beyond the Visible Spectrum, 2025* -->
 
 
 ## Honors & Awards
