@@ -8,7 +8,7 @@ I am a M.S. student in the [Graduate School of Data Science](https://gsds.snu.ac
 
 My research focuses on **generative modeling**, particularly in video, grounded in theory-driven approaches. Recently, I am working on 3D and reinforcement learning, with broad interest in their integration with generative models.
 
-<p style="color:#e74d3c;"><strong>I am actively looking for Ph.D. positions, starting in Fall 2027.</strong></p>
+<p class="seeking"><strong>I am actively looking for Ph.D. positions, starting in Fall 2027.</strong></p>
 
 ## News
 
