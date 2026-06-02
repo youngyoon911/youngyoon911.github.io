@@ -8,9 +8,10 @@ I am an M.S. student in the [Graduate School of Data Science](https://gsds.snu.a
 
 My research focuses on **generative modeling**, particularly in video, grounded in theory-driven approaches. I have experience in 3D and reinforcement learning, with broad interest in their integration with generative models.
 
+<p style="color: red;"><strong>I am actively looking for Ph.D. positions, starting in Fall 2027.</strong></p>
+
 ## News
 
-- **[2026]** Three papers under review at NeurIPS 2026, ECCV 2026, and MIUA 2026.
 - **[2025]** Paper accepted at CVPR Workshop on Perception Beyond the Visible Spectrum.
 - **[2024]** Started M.S. at SNU GSDS, VIP Lab.
 
@@ -22,7 +23,7 @@ My research focuses on **generative modeling**, particularly in video, grounded 
   <br>
   *NeurIPS 2026 (under review)*
   <br>
-  Keywords: Motion Customization, Stochastic Optimal Control, Content Leakage
+  Keywords: Motion Customization, Stochastic Optimal Control, Text-to-video generation
 
 - **Trajectory-guided Referred Motion Segmentation**
   <br>
@@ -46,33 +47,6 @@ My research focuses on **generative modeling**, particularly in video, grounded 
   <br>
   *CVPR Workshop on Perception Beyond the Visible Spectrum, 2025*
 
-## Research Experience
-
-- **Visual Information Processing (VIP) Lab**, Graduate Researcher — Feb 2024 – Present
-  <br>
-  Seoul National University · Advised by Prof. Joonseok Lee
-
-- **Computational Clinical Science (CCS) Lab**, Undergraduate Researcher — Sep 2023 – Dec 2023
-  <br>
-  Seoul National University · Advised by Prof. Wooyoung Ahn
-
-- **Connectome Lab**, Undergraduate Researcher — Jan 2022 – Dec 2022
-  <br>
-  Seoul National University · Advised by Prof. Jiwook Cha
-
-## Teaching
-
-- **Basic Computing: First Adventures in Computing** — Feb 2024 – Present
-  <br>
-  Teaching Assistant, Seoul National University
-
-- **Computational Thinking: Thinking with Computers** — Dec 2025
-  <br>
-  Guest Lecturer, Seoul National University
-
-- **Machine Learning and Deep Learning I** — Sep 2024 – Nov 2024
-  <br>
-  Teaching Assistant, Seoul National University
 
 ## Honors & Awards
 

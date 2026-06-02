@@ -1,22 +1,39 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Diverse Motion Customization via Control-based Dynamic Optimization"
+    authors: "<strong>Youngyoon Choi*</strong>, Kihyun Kim*, Jeongwoo Shin, Joonseok Lee"
+    conference_short: "NeurIPS"
+    conference: "Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026. (under review)"
+    image: ./assets/img/pub_motion.png  # 논문 티저 이미지 경로 (없으면 이 줄 삭제)
+    # pdf: ./assets/files/motion_customization.pdf
+    # code: https://github.com/youngyoon911/motion-customization
+    # page: https://yourprojectpage.github.io
+    notes: "Under Review"
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Trajectory-guided Referred Motion Segmentation"
+    authors: "Yunjeong Choi, Hyunjin Lee, <strong>Youngyoon Choi</strong>, Eunyi Lyou, Yoori Oh, Joonseok Lee"
+    conference_short: "ECCV"
+    conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2026. (under review)"
+    image: ./assets/img/pub_trajectory.png
+    # pdf: 
+    # code: 
+    # page: 
+    notes: "Under Review"
+
+  - title: "Channel-wise Latent Space Decorrelation for 3D Brain MRI Generation"
+    authors: "Wonyoung Jang*, Junho Lee*, <strong>Youngyoon Choi</strong>, Seunggeun Lee, Joonseok Lee"
+    conference_short: "MIUA"
+    conference: "Medical Image Understanding and Analysis <strong>(MIUA)</strong>, 2026. (under review)"
+    image: ./assets/img/pub_mri.png
+    # pdf: 
+    # code: 
+    notes: "Under Review"
+
+  - title: "GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting"
+    authors: "Inseo Lee, <strong>Youngyoon Choi</strong>, Joonseok Lee"
+    conference_short: "CVPR Workshop"
+    conference: "CVPR Workshop on Perception Beyond the Visible Spectrum, 2025."
+    image: ./assets/img/pub_gaussianvideo.png
+    pdf: https://openaccess.thecvf.com/content/CVPR2025W/PBVS/papers/Lee_GaussianVideo_Efficient_Video_Representation_and_Compression_by_Gaussian_Splatting_CVPRW_2025_paper.pdf
+    # code: 
+    # page:
