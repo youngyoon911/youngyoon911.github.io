@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a M.S. student in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at Seoul National University, advised by [Prof. Joonseok Lee](http://www.joonseok.net/home.html) at the [Visual Information Processing (VIP) Lab](http://viplab.snu.ac.kr/).
+I am a M.S. student in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at Seoul National University (SNU), advised by [Prof. Joonseok Lee](http://www.joonseok.net/home.html) at the [Visual Information Processing (VIP) Lab](http://viplab.snu.ac.kr/).
 
 My research focuses on **generative modeling**, particularly in video, grounded in theory-driven approaches. Recently, I am working on 3D and reinforcement learning, with broad interest in their integration with generative models.
 
@@ -22,16 +22,21 @@ My research focuses on **generative modeling**, particularly in video, grounded 
 ## Background
 ### Education
 
-- M.S. in Data Science @ SNU **[Mar 2024 – Present]**  * <i style="color:#e74d3c">Expected Feb 2027</i>
-- B.A. in Psychology @ SNU **[Mar 2019 – Feb 2024]**  * Graduated Summa Cum Laude
-    <br>Interdisciplinary Program in Brain, Mind, and Behavior
+- M.S. in Data Science @ SNU **[Mar 2024 – Present]** &nbsp; * Expected Feb 2027
+- B.A. in Psychology @ SNU **[Mar 2019 – Feb 2024]** &nbsp; * Graduated Summa Cum Laude
+    <br><i>Interdisciplinary Program in Brain, Mind, and Behavior</i>
+- Exchange Student @ University of Missouri-Columbia **[Sep 2022 – Dec 2022]**
 
 ### Research Experience
 
-- Graduate Researcher @ [Visual Information Processing (VIP) Lab](http://viplab.snu.ac.kr/), SNU (Advisor: Joonseok Lee)
-- Undergraduate Researcher @ [Computational Clinical Science (CCS) Lab](https://ccs-lab.github.io/), SNU (Advisor: Wooyoung Ahn)
-- Undergraduate Researcher @ [Human Factors Psychology (HFP) Lab](https://hfpsych.snu.ac.kr/), SNU (Advisor: Sowon Hahn)
-- Undergraduate Researcher @ [Connectome Lab](https://www.connectomelab.com/), SNU (Advisor: Jiwook Cha) 
+- Graduate Researcher 
+    <br>@ [Visual Information Processing (VIP) Lab](http://viplab.snu.ac.kr/), SNU (Advisor: Joonseok Lee)
+- Undergraduate Researcher 
+    <br>@ [Computational Clinical Science (CCS) Lab](https://ccs-lab.github.io/), SNU (Advisor: Wooyoung Ahn)
+- Undergraduate Researcher 
+    <br>@ [Human Factors Psychology (HFP) Lab](https://hfpsych.snu.ac.kr/), SNU (Advisor: Sowon Hahn)
+- Undergraduate Researcher 
+    <br>@ [Connectome Lab](https://www.connectomelab.com/), SNU (Advisor: Jiwook Cha) 
 
 
 ## Honors & Awards
