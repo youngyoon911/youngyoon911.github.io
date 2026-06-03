@@ -1,5 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
-<p style="color: #888; font-size: 13px; margin: 8px 0px 4px;">* indicates equal contribution</p>
+
+<p style="color: #888; font-size: 13px; margin: 16px 0px 4px;">* indicates equal contribution</p>
 
 <div class="publications">
 <ol class="bibliography">
