@@ -41,7 +41,7 @@ My research focuses on **generative modeling**, particularly in video, grounded 
 
 ## Honors & Awards
 
-- **4th stage BK21 Scholarship** — Sep 2024 – Dec 2025
-- **3rd Place**, Brain-Mind-Behavior Interdisciplinary Research Presentation — Dec 2023
-- **Undergraduate Research Funding Program** — Jul 2022 – Dec 2022
-- **Dean's List**, Academic Scholarship — Dec 2020
+- **4th stage BK21 Scholarship** [Sep 2024 – Dec 2025]
+- **3rd Place**, Brain-Mind-Behavior Interdisciplinary Research Presentation [Dec 2023]
+- **Undergraduate Research Funding Program** [Jul 2022 – Dec 2022]
+- **Dean's List**, Academic Scholarship [Dec 2020]

@@ -5,7 +5,7 @@ affiliation:            Seoul National University
 email:                  youngyoon911(at)snu.ac.kr
 
 # Search Engine Optimization (SEO)
-keywords:               youngyoon choi, video generation, generative modeling, SNU, VIP Lab
+keywords:               youngyoon choi, video generation, generative modeling, SNU, VIP Lab, controllable video synthesis, stochastic optimal control, 3D, video, diffusion
 description:            M.S. student at Seoul National University, VIP Lab. Research on video generation and controllable synthesis.
 canonical:              https://youngyoon911.github.io  # ← GitHub username으로 수정하세요
 
@@ -16,7 +16,7 @@ canonical:              https://youngyoon911.github.io  # ← GitHub username으
 # twitter:              https://twitter.com/yourhandle
 
 # Profile photo
-avatar:                 ./assets/img/avatar.jpg  # assets/img/ 폴더에 사진 업로드 후 파일명 맞춰 주세요
+avatar:                 ./assets/img/profile.JPG  # assets/img/ 폴더에 사진 업로드 후 파일명 맞춰 주세요
 
 # Favicon
 # favicon:              ./assets/img/favicon.png
