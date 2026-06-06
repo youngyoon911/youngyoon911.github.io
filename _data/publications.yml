@@ -8,7 +8,7 @@ main:
     # pdf: ./assets/files/motion_customization.pdf
     # code: https://github.com/youngyoon911/motion-customization
     # page: https://yourprojectpage.github.io
-    notes: Keywords: Motion Customization, Stochastic Optimal Control, Text-to-video generation
+    notes: "Keywords: Motion Customization, Stochastic Optimal Control, Text-to-video generation"
 
   - title: "Trajectory-guided Referred Motion Segmentation"
     authors: "Yunjeong Choi, Hyunjin Lee, <strong>Youngyoon Choi</strong>, Eunyi Lyou, Yoori Oh, Joonseok Lee"
