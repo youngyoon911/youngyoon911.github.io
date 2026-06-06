@@ -14,6 +14,7 @@ canonical:              https://youngyoon911.github.io  # ← GitHub username으
 # github_link:            https://github.com/youngyoon911  # ← 본인 GitHub username으로 수정
 linkedin:             https://www.linkedin.com/in/11-ye9
 # twitter:              https://twitter.com/yourhandle
+cv:                   ./assets/files/cv.pdf
 
 # Profile photo
 avatar:                 ./assets/img/profile.JPG  # assets/img/ 폴더에 사진 업로드 후 파일명 맞춰 주세요
