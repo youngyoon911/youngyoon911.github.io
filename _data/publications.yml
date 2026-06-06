@@ -34,7 +34,6 @@ main:
     conference_short: "CVPR Workshop 2025"
     conference: "CVPR Workshop on Perception Beyond the Visible Spectrum <strong>(CVPRW)</strong>, 2025"
     image: ./assets/img/pub_gaussianvideo.png
-    notes: "Keywords: 3D Gaussian Splatting, Video Compression, Neural Rendering"
     pdf: https://openaccess.thecvf.com/content/CVPR2025W/PBVS/papers/Lee_GaussianVideo_Efficient_Video_Representation_and_Compression_by_Gaussian_Splatting_CVPRW_2025_paper.pdf
     # code: 
     # page:
