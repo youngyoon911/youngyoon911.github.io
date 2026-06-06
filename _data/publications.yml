@@ -18,7 +18,7 @@ main:
     # pdf: 
     # code: 
     # page: 
-    # notes: "Under Review"
+    notes: "Keywords: Referring Video Object Segmentation, Point Trajectory, Motion"
 
   - title: "Channel-wise Latent Space Decorrelation for 3D Brain MRI Generation"
     authors: "Wonyoung Jang*, Junho Lee*, <strong>Youngyoon Choi</strong>, Seunggeun Lee, Joonseok Lee"
@@ -27,7 +27,7 @@ main:
     image: ./assets/img/pub_mri.png
     # pdf: 
     # code: 
-    # notes: "Under Review"
+    notes: "Keywords: Brain Imaging, Flow matching, Representation Learning"
 
   - title: "GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting"
     authors: "Inseo Lee, <strong>Youngyoon Choi</strong>, Joonseok Lee"
@@ -37,3 +37,4 @@ main:
     pdf: https://openaccess.thecvf.com/content/CVPR2025W/PBVS/papers/Lee_GaussianVideo_Efficient_Video_Representation_and_Compression_by_Gaussian_Splatting_CVPRW_2025_paper.pdf
     # code: 
     # page:
+    notes: "Keywords: 3D Gaussian Splatting, Video Compression, Neural Rendering"
