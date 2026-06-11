@@ -26,6 +26,9 @@ avatar:                 ./assets/img/profile.JPG  # assets/img/ 폴더에 사진
 # Theme
 remote_theme:           yaoyao-liu/minimal-light
 
+plugins:
+  - jekyll-sitemap
+
 # Exclude from build
 exclude:
   - Gemfile
