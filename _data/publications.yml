@@ -3,7 +3,7 @@ main:
   - title: "Diverse Motion Customization via Control-based Dynamic Optimization"
     authors: "<strong>Youngyoon Choi*</strong>, Kihyun Kim*, Jeongwoo Shin, Joonseok Lee"
     conference_short: "Under Review"
-    conference: "Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026 (under review)"
+    conference: "Under review, 2026"
     image: ./assets/img/pub_motion.png  
     # pdf: ./assets/files/motion_customization.pdf
     # code: https://github.com/youngyoon911/motion-customization
@@ -13,7 +13,7 @@ main:
   - title: "Trajectory-guided Referred Motion Segmentation"
     authors: "Yunjeong Choi, Hyunjin Lee, <strong>Youngyoon Choi</strong>, Eunyi Lyou, Yoori Oh, Joonseok Lee"
     conference_short: "Under Review"
-    conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2026 (under review)"
+    conference: "Under review, 2026"
     image: ./assets/img/pub_trajectory.png
     # pdf: 
     # code: 
