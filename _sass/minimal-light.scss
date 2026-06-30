@@ -595,3 +595,17 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+.badge-oral {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background-color: #FDF3D7;
+  color: #92660B;
+  font-size: 0.8em;
+  font-weight: 600;
+  padding: 1px 8px;
+  border-radius: 999px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
