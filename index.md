@@ -6,9 +6,9 @@ layout: homepage
 
 I am a M.S. student in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at Seoul National University (SNU), advised by [Prof. Joonseok Lee](http://www.joonseok.net/home.html) at the [Visual Information Processing (VIP) Lab](http://viplab.snu.ac.kr/).
 
-My research focuses on **generative modeling**, particularly in video, grounded in theory-driven approaches. Recently, I am working on 3D and reinforcement learning, with broad interest in their integration with generative models.
+My research focuses on **generative modeling** grounded in theory-driven approaches. Recently, I am working on 3D and world models, with broad interest in their integration with video generative models.
 
-<p><strong><i style="color:#e74d3c">I am actively looking for Ph.D. positions, starting in Fall 2027.</i></strong></p>
+<p><strong><i style="color:#e74d3c">I am looking for Ph.D. positions, starting in Fall 2027.</i></strong></p>
 
 ## News
 
