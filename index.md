@@ -6,7 +6,7 @@ layout: homepage
 
 I am a M.S. student in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at Seoul National University (SNU), advised by [Prof. Joonseok Lee](http://www.joonseok.net/home.html) at the [Visual Information Processing (VIP) Lab](http://viplab.snu.ac.kr/).
 
-My research focuses on **generative modeling** grounded in theory-driven approaches. Recently, I have worked on conditional video generation, diagnosing and addressing failure modes to achieve more faithful, controllable generation. Moving forward, I am interested in exploiting video generation models' learned priors and controllability to build persistent, consistent representations of the world — spanning interactive video world models, 3D-consistent generation, and long-video generation.
+My research focuses on **generative modeling** grounded in theory-driven approaches. Recently, I have worked on conditional video generation, diagnosing and addressing failure modes to achieve more faithful, controllable generation. Moving forward, I am interested in exploiting video generation models' learned priors and controllability to build persistent, consistent representations of the world - spanning interactive video world models, 3D-consistent generation, and long-video generation.
 
 <p><strong><i style="color:#e74d3c">I am looking for Ph.D. positions, starting in Fall 2027.</i></strong></p>
 
