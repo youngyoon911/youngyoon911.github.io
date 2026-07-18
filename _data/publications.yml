@@ -25,9 +25,9 @@ main:
     conference_short: "MIUA 2026"
     conference: 'Medical Image Understanding and Analysis <strong>(MIUA)</strong>, 2026 <span style="display:inline-flex;align-items:center;gap:4px;background-color:#FDF3D7;color:#92660B;font-size:0.8em;font-weight:600;padding:1px 8px;border-radius:999px;margin-left:6px;vertical-align:middle;">★ Oral</span>'
     image: ./assets/img/pub_mri.png
-    # pdf: 
+    pdf: http://www.joonseok.net/papers/miua26.pdf
     # code: 
-    notes: "Keywords: Brain Imaging, Flow matching, Representation Learning"
+    # notes: "Keywords: Brain Imaging, Flow matching, Representation Learning"
 
   - title: "GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting"
     authors: "Inseo Lee, <strong>Youngyoon Choi</strong>, Joonseok Lee"
