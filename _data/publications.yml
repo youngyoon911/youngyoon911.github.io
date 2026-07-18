@@ -23,7 +23,8 @@ main:
   - title: "Channel-wise Latent Space Decorrelation for 3D Brain MRI Generation"
     authors: "Wonyoung Jang*, Junho Lee*, <strong>Youngyoon Choi</strong>, Seunggeun Lee, Joonseok Lee"
     conference_short: "MIUA 2026"
-    conference: 'Medical Image Understanding and Analysis <strong>(MIUA)</strong>, 2026 <span style="display:inline-flex;align-items:center;gap:4px;background-color:#FDF3D7;color:#92660B;font-size:0.8em;font-weight:600;padding:1px 8px;border-radius:999px;margin-left:6px;vertical-align:middle;">★ Oral</span>'
+    conference: 'Medical Image Understanding and Analysis <strong>(MIUA)</strong>, 2026'
+    badge: '<span style="display:inline-flex;align-items:center;gap:4px;background-color:#FDF3D7;color:#92660B;font-size:0.8em;font-weight:600;padding:1px 8px;border-radius:999px;">★ Oral</span>'
     image: ./assets/img/pub_mri.png
     pdf: http://www.joonseok.net/papers/miua26.pdf
     # code: 
