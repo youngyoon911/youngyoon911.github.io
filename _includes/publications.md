@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Research</h2>
 
 <p style="color: #888; font-size: 13px; margin: 20px 0px 4px;">* indicates equal contribution</p>
 

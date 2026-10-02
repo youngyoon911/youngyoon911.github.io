@@ -4,7 +4,7 @@ main:
     authors: "Jeongwoo Shin*, <strong>Youngyoon Choi*</strong>, Sangwoo Jo, Hyunmog Kim, Sungjoon Choi, Joonseok Lee, Jaewoong Choi, Jaemoo Choi"
     conference_short: "Preprint"
     conference: "arxiv, 2026"
-    image: ./assets/img/pub_idforcing.png  
+    image: ./assets/img/pub_idforcing2.png  
     # pdf: ./assets/files/motion_customization.pdf
     # code: https://github.com/youngyoon911/motion-customization
     page: https://in-distribution-forcing.github.io/
