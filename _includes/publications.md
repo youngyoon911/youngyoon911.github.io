@@ -9,16 +9,14 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px; flex: 0 0 360px; max-width: 360px;">
-    <div class="teaser z-depth-1" style="background:#fff; overflow:hidden; padding: {{ link.thumb_padding | default: '0' }};">
-      {% if link.video %}
-      <video autoplay loop muted playsinline poster="{{ link.image }}" style="width:100%; display:block;">
-        <source src="{{ link.video }}" type="video/mp4">
-      </video>
-      {% elsif link.image %}
-      <img src="{{ link.image }}" style="width:100%; display:block;">
-      {% endif %}
-    </div>
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    {% if link.video %}
+    <video autoplay loop muted playsinline poster="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+      <source src="{{ link.video }}" type="video/mp4">
+    </video>
+    {% elsif link.image %}
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+    {% endif %}
     {% if link.conference_short %}
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
