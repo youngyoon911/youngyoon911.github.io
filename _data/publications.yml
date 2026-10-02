@@ -1,5 +1,15 @@
 main:
 
+  - title: "In-Distribution Forcing for Long Video Generation at Test Time"
+    authors: "Jeongwoo Shin*, <strong>Youngyoon Choi*</strong>, Sangwoo Jo, Hyunmog Kim, Sungjoon Choi, Joonseok Lee, Jaewoong Choi, Jaemoo Choi"
+    conference_short: "Preprint"
+    conference: "arxiv, 2026"
+    image: ./assets/img/pub_idforcing.png  
+    # pdf: ./assets/files/motion_customization.pdf
+    # code: https://github.com/youngyoon911/motion-customization
+    page: https://in-distribution-forcing.github.io/
+    notes: "Keywords: Long Video Generation, Exposure Bias, Test-time Extrapolation"
+
   - title: "Diverse Motion Customization via Control-based Dynamic Optimization"
     authors: "<strong>Youngyoon Choi*</strong>, Kihyun Kim*, Jeongwoo Shin, Joonseok Lee"
     conference_short: "Under Review"
