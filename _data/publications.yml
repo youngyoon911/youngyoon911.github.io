@@ -8,7 +8,7 @@ main:
     # pdf: ./assets/files/motion_customization.pdf
     # code: https://github.com/youngyoon911/motion-customization
     page: https://in-distribution-forcing.github.io/
-    notes: "Keywords: Long Video Generation, Exposure Bias, Test-time Extrapolation"
+    notes: "<br>Keywords: Long Video Generation, Exposure Bias, Test-time Extrapolation"
 
   - title: "Diverse Motion Customization via Control-based Dynamic Optimization"
     authors: "<strong>Youngyoon Choi*</strong>, Kihyun Kim*, Jeongwoo Shin, Joonseok Lee"
