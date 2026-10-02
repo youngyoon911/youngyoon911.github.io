@@ -17,7 +17,7 @@
     </video>
     {% elsif link.image %}
     <img src="{{ link.image }}" class="teaser z-depth-1"
-         style="width:197px; height:123px; object-fit:{{ link.fit | default: 'cover' }}; background:#fff; display:block;">
+         style="width:197px !important; max-width:none !important; height:123px !important; object-fit:{{ link.fit | default: 'cover' }}; background:#fff; display:block;">
     {% endif %}
     {% if link.conference_short %}
     <abbr class="badge">{{ link.conference_short }}</abbr>
