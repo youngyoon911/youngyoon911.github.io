@@ -6,7 +6,6 @@ main:
     conference: "arxiv, 2026"
     image: ./assets/img/pub_idforcing.png  
     video: ./assets/video/idforcing.mp4
-    fit: cover
     pdf: https://in-distribution-forcing.github.io/
     code: https://in-distribution-forcing.github.io/
     page: https://in-distribution-forcing.github.io/
@@ -17,6 +16,7 @@ main:
     conference: "Under review, 2026"
     image: ./assets/img/pub_motion.png
     video: ./assets/video/cmc.mp4  
+    fit: contain
     # pdf: ./assets/files/motion_customization.pdf
     # code: https://github.com/youngyoon911/motion-customization
     # page: https://yourprojectpage.github.io
