@@ -7,7 +7,7 @@ main:
     image: ./assets/img/pub_idforcing.png  
     video: ./assets/video/idforcing.mp4
     pdf: https://in-distribution-forcing.github.io/
-    code: https://in-distribution-forcing.github.io/
+    code: https://github.com/In-Distribution-Forcing/ID-Forcing
     page: https://in-distribution-forcing.github.io/
 
   - title: "Diverse Motion Customization via Control-based Dynamic Optimization"
