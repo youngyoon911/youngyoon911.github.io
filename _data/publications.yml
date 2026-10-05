@@ -6,7 +6,7 @@ main:
     conference: "arxiv, 2026"
     image: ./assets/img/pub_idforcing.png  
     video: ./assets/video/idforcing.mp4
-    pdf: https://in-distribution-forcing.github.io/
+    pdf: https://arxiv.org/pdf/2610.03120
     code: https://github.com/In-Distribution-Forcing/ID-Forcing
     page: https://in-distribution-forcing.github.io/
 
