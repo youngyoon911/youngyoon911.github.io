@@ -12,15 +12,14 @@ main:
 
   - title: "Diverse Motion Customization via Control-based Dynamic Optimization"
     authors: "<strong>Youngyoon Choi*</strong>, Kihyun Kim*, Jeongwoo Shin, Joonseok Lee"
-    conference_short: "Under Review"
-    conference: "Under review, 2026"
+    conference_short: "Preprint"
+    conference: "arxiv, 2026"
     image: ./assets/img/pub_motion.png
     video: ./assets/video/cmc.mp4  
     fit: contain
-    # pdf: ./assets/files/motion_customization.pdf
+    pdf: https://arxiv.org/pdf/2610.07911
     # code: https://github.com/youngyoon911/motion-customization
     # page: https://yourprojectpage.github.io
-    notes: "Keywords: Motion Customization, Stochastic Optimal Control, Text-to-video generation"
 
   - title: "Trajectory-guided Referred Motion Segmentation"
     authors: "Yunjeong Choi, Hyunjin Lee, <strong>Youngyoon Choi</strong>, Eunyi Lyou, Yoori Oh, Joonseok Lee"
