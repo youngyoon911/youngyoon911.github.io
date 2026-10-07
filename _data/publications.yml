@@ -21,15 +21,15 @@ main:
     # code: https://github.com/youngyoon911/motion-customization
     # page: https://yourprojectpage.github.io
 
-  - title: "Trajectory-guided Referred Motion Segmentation"
-    authors: "Yunjeong Choi, Hyunjin Lee, <strong>Youngyoon Choi</strong>, Eunyi Lyou, Yoori Oh, Joonseok Lee"
-    conference_short: "Under Review"
-    conference: "Under review, 2026"
-    image: ./assets/img/pub_trajectory.png
-    # pdf: 
-    # code: 
-    # page: 
-    notes: "Keywords: Referring Video Object Segmentation, Point Trajectory, Motion"
+  # - title: "Trajectory-guided Referred Motion Segmentation"
+  #   authors: "Yunjeong Choi, Hyunjin Lee, <strong>Youngyoon Choi</strong>, Eunyi Lyou, Yoori Oh, Joonseok Lee"
+  #   conference_short: "Under Review"
+  #   conference: "Under review, 2026"
+  #   image: ./assets/img/pub_trajectory.png
+  #   # pdf: 
+  #   # code: 
+  #   # page: 
+  #   notes: "Keywords: Referring Video Object Segmentation, Point Trajectory, Motion"
 
   - title: "Channel-wise Latent Space Decorrelation for 3D Brain MRI Generation"
     authors: "Wonyoung Jang*, Junho Lee*, <strong>Youngyoon Choi</strong>, Seunggeun Lee, Joonseok Lee"
